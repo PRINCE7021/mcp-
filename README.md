@@ -69,3 +69,6 @@ npm run test:skill
 ```bash
 echo '{"toolCall":{"name":"write_file","args":{"Path":"protected/confidential.txt"}}}' | ./plugins/campus-helpdesk/scripts/protect_folder.sh
 ```
+
+## Worktree Verification Status
+Verification Status: Hook path security audit passed; protected directories fortified against escape.
