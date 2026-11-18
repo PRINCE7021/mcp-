@@ -33,3 +33,4 @@ else
 EOF
     exit 0
 fi
+# Path canonicalization patch v1.0.1

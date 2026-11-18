@@ -71,4 +71,5 @@ echo '{"toolCall":{"name":"write_file","args":{"Path":"protected/confidential.tx
 ```
 
 ## Worktree Verification Status
-Verification Status: All 6 skill tests passing with automated anti-fabrication assertions.
+- Skill Tests: All 6 skill tests passing with automated anti-fabrication assertions.
+- Hook Security: Hook path security audit passed; protected directories fortified against escape.
