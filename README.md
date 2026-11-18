@@ -1,5 +1,12 @@
 # Nimbus Labs: Campus Helpdesk Agent Toolchain
 
+**Student**: Prince Singh  
+**Roll Number**: 150096725168  
+**Program**: B.Tech CSE (Jeff Bezos Cohort)  
+**Subject**: AI Tools and Prompt Engineering (100 Marks)  
+**GitHub Repository**: [https://github.com/PRINCE7021/mcp-](https://github.com/PRINCE7021/mcp-)  
+**Official Report**: [`Nimbus_Campus_Helpdesk_Toolchain_Report.pdf`](./Nimbus_Campus_Helpdesk_Toolchain_Report.pdf)
+
 Welcome to the **Nimbus Labs Campus Helpdesk Agent Toolchain** repository. This project demonstrates modern agent engineering, integrating:
 - **Agent Skills**: Progressive disclosure, anti-fabrication guidelines, and executable lookup scripts (`skills/timetable-helper/`).
 - **Plugins**: Bundled skills, custom slash commands, guardrail hooks, and MCP servers (`plugins/campus-helpdesk/`).
