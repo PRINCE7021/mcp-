@@ -1,0 +1,17 @@
+{
+  "protect-folders": {
+    "enabled": true,
+    "PreToolUse": [
+      {
+        "matcher": "write_file|edit_file",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "./scripts/protect_folder.sh",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+batch,day,start_time,end_time,course_code,course_name,instructor,room_number
+CSE-2A,Monday,09:00,10:30,CS201,Data Structures & Algorithms,Prof. Alan Turing,LH-101
+CSE-2A,Monday,10:45,12:15,CS203,Computer Organization & Architecture,Dr. John von Neumann,LH-101
+CSE-2A,Monday,14:00,16:00,CS201L,Data Structures Lab,Prof. Alan Turing,Lab-3
+CSE-2A,Tuesday,09:00,10:30,CS202,Discrete Mathematics,Prof. Ada Lovelace,LH-102
+CSE-2A,Tuesday,11:00,12:30,CS204,Database Management Systems,Dr. Edgar Codd,LH-101
+CSE-2A,Wednesday,09:00,10:30,CS201,Data Structures & Algorithms,Prof. Alan Turing,LH-101
+CSE-2A,Wednesday,11:00,12:30,CS203,Computer Organization & Architecture,Dr. John von Neumann,LH-101
+CSE-2A,Thursday,09:00,10:30,CS202,Discrete Mathematics,Prof. Ada Lovelace,LH-102
+CSE-2A,Thursday,11:00,12:30,CS204,Database Management Systems,Dr. Edgar Codd,LH-101
+CSE-2A,Friday,09:00,11:00,CS204L,DBMS Lab,Dr. Edgar Codd,Lab-2
+CSE-2A,Friday,11:30,13:00,HU201,Technical Communication,Prof. Maya Angelou,LH-105
+CSE-2B,Monday,09:00,10:30,CS203,Computer Organization & Architecture,Dr. John von Neumann,LH-102
+CSE-2B,Monday,10:45,12:15,CS201,Data Structures & Algorithms,Prof. Alan Turing,LH-102
+CSE-2B,Tuesday,09:00,10:30,CS204,Database Management Systems,Dr. Edgar Codd,LH-103
+CSE-2B,Tuesday,11:00,12:30,CS202,Discrete Mathematics,Prof. Ada Lovelace,LH-103
+CSE-2B,Wednesday,10:00,11:30,CS201,Data Structures & Algorithms,Prof. Alan Turing,Room-302
+CSE-2B,Wednesday,13:30,15:30,CS201L,Data Structures Lab,Prof. Alan Turing,Lab-4
+CSE-2B,Thursday,09:00,10:30,CS204,Database Management Systems,Dr. Edgar Codd,LH-103
+CSE-2B,Friday,10:00,12:00,CS204L,DBMS Lab,Dr. Edgar Codd,Lab-2
+ECE-1A,Monday,09:00,10:30,EC101,Digital Logic Design,Prof. Claude Shannon,LH-201
+ECE-1A,Monday,11:00,12:30,MA101,Engineering Mathematics I,Dr. Carl Gauss,LH-201
+ECE-1A,Wednesday,09:00,10:30,EC101,Digital Logic Design,Prof. Claude Shannon,LH-201
+ECE-1A,Friday,14:00,16:00,EC101L,Digital Logic Lab,Prof. Claude Shannon,Lab-1
+MECH-3A,Tuesday,10:00,11:30,ME301,Fluid Mechanics,Dr. Ludwig Prandtl,LH-301
+MECH-3A,Thursday,14:00,15:30,ME302,Thermodynamics II,Dr. Rudolf Clausius,LH-301

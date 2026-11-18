@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "campus-data": {
+      "command": "node",
+      "args": [
+        "../../mcp-server/server.js"
+      ],
+      "env": {
+        "NODE_ENV": "production"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "campus-helpdesk",
+  "displayName": "Campus Helpdesk Suite",
+  "version": "1.0.0",
+  "description": "Comprehensive university helpdesk assistant offering verified timetable queries, live fee status, campus hostel rules, and protected workspace guardrails.",
+  "author": {
+    "name": "Nimbus Labs Engineering",
+    "url": "https://github.com/nimbus-labs"
+  },
+  "homepage": "https://nimbuslabs.university.internal/helpdesk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimbus-labs/campus-helpdesk-toolchain.git"
+  },
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "What classes does CSE-2A have on Monday?",
+    "Check fee receipt status for student STU1042",
+    "What are the hostel quiet hours and visitor rules?"
+  ]
+}

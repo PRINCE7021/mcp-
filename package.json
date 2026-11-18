@@ -1,0 +1,17 @@
+{
+  "name": "campus-helpdesk-toolchain",
+  "version": "1.0.0",
+  "description": "Nimbus Labs Campus Helpdesk Agent Toolchain featuring Skills, Plugins, MCP Server, and Git Worktrees",
+  "type": "module",
+  "main": "mcp-server/server.js",
+  "scripts": {
+    "start:mcp": "node mcp-server/server.js",
+    "test:mcp": "node mcp-server/test-client.js",
+    "test:skill": "python3 tests/test_skill_prompts.py"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.32.2"
+  },
+  "author": "Nimbus Labs Engineering",
+  "license": "Apache-2.0"
+}

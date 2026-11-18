@@ -1,0 +1,25 @@
+{
+  "id": "campus-helpdesk",
+  "name": "Campus Helpdesk",
+  "displayName": "Campus Helpdesk Suite",
+  "version": "1.0.0",
+  "description": "Comprehensive university helpdesk assistant offering verified timetable queries, live fee status, campus hostel rules, and protected workspace guardrails.",
+  "category": "Education & Productivity",
+  "tags": [
+    "campus",
+    "timetable",
+    "fees",
+    "hostel",
+    "guardrails",
+    "mcp"
+  ],
+  "author": "Nimbus Labs Engineering",
+  "repository": "https://github.com/nimbus-labs/campus-helpdesk-toolchain",
+  "installPath": "plugins/campus-helpdesk",
+  "components": {
+    "skills": ["timetable-helper"],
+    "commands": ["/timetable"],
+    "hooks": ["protect-folders"],
+    "mcpServers": ["campus-data"]
+  }
+}
