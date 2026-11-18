@@ -306,3 +306,4 @@ main().catch((err) => {
   console.error("Fatal server error:", err);
   process.exit(1);
 });
+// Version 1.0.1 - Added server uptime tracking
